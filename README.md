@@ -12,5 +12,6 @@ All 7z and zip files are password protected and the password is "infected" (with
 
 This git repository may offer access to third party websites through links. I have not reviewed and i do not control such sites and i am not responsible or liable for any content or issues arising in connection with linked third-party sites.
 
-# All responsibilities are at your own risk.
-# Please use it only for research purposes.
+All responsibilities are at your own risk.
+
+Please use it only for research purposes.
